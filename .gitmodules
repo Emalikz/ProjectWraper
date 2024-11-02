@@ -1,0 +1,3 @@
+[submodule "auth-gateway"]
+	path = auth-gateway
+	url = https://github.com/Emalikz/auth-gateway.git
